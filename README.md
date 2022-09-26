@@ -1,11 +1,18 @@
 # odin-recipes
 
-This website was developed following The Odin Project.  The project was developed on a Linux virtual machine running on VirtualBox on Windows 10.
+[This](https://simontyrrell.github.io/odin-recipes) is my odin-recipes website.  It's the first website I developed having enrolled in [The Odin Project](https://www.theodinproject.com/).
 
-The project uses a recipes website as a tutorial.  The recipes folder will contain the recipes, and the images folder will contain images of the dishes.
+## Website Structure
 
-The project uses Git for version control, and VSCode as the local editor.
+- The recipes folder contains the recipes.
+- The images folder contains images of the dishes.
 
-The repository for the website is hosted on Github.  The URL for the website is https://simontyrrell.github.io/odin-recipes.
+## Development platform
 
+- Xubuntu VirtualBox virtual machine hosted on my Windows 10 laptop.  
+- Git for version control.
+- VSCode as editor.
 
+### Publication
+
+The repository for the website is hosted on [Github](https://github.com/).
